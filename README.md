@@ -75,7 +75,7 @@ Um aplicativo progressivo (PWA) focado em simplicidade, onde o utilizador gere a
 ## Link!
 
 > [!IMPORTANT]
-> O site criado está hospedado [aqui](https://smart-pocket-scribe.lovable.app/auth).
+> O site criado está hospedado [aqui](https://smart-pocket-scribe.lovable.app/auth). 
 
 ## Print
 
@@ -91,11 +91,11 @@ Um aplicativo progressivo (PWA) focado em simplicidade, onde o utilizador gere a
 
 O Gemini foi utilizado para chegarmos em um bom PRD, e ele de fato foi muito bom para isso.
 Além disso, utilizei o Lovable pela primeira vez e me impressionei com o quão robusta é a aplicação que ele consegue fazer.
+Também aprendi como forkar um projeto do Lovable para o GitHub. Agora, o projeto está [nesse repositório](https://github.com/pecazeco/smart-pocket-scribe).
 
 ### O que não funcionou
 
 Eu só consegui enviar 2 mensagens para o Lovable e já foi o suficiente para acabar os créditos. Com isso, a função de adicionar despezas pelo chat com IA não está funcionando e não foi possível resolver através de Vibe Coding.
-Gostaria de zipar e baixar todos os arquivos gerados pelo Lovable para editar e concluir o projeto manualmente, mas ainda não descobri como fazer isso.
 
 ### O que aprendi
 
